@@ -1,1 +1,1 @@
-# api
+# Test API STROE GAME (VUE)
